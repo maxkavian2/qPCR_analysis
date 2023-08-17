@@ -1,0 +1,10 @@
+ANFLD=qPCR_analysis
+DATAFLD=qPCR_data
+DATAEXPFLD=default
+DATAEXPFILE=default.cvs
+DATAREFFILE=default_ref.csv
+MONTECARLO_NPOINTS=1e+4
+QRANKS=.01,.05,.25,.5,.75,.95,.99
+WGRAP=0.75
+WH=2,8
+DIG=2
