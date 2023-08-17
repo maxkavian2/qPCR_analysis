@@ -1,7 +1,7 @@
 # qPCR analysis for Quantum Studio 3 Data Formats.
 qPCR analysis pipelines developed at A. Sanz laboratory, School of Molecular Biosciences, University of Glasgow (July 2023).
 
-For any questions regarding this code, please send a message to: maxsanara@gmail.com.
+For any questions regarding this code, please send a message to Maximo Sanchez-Aragon: maxsanara@gmail.com.
 
 # Basic requirements
 * Quantum Studio 3 datasets of target gene and reference gene (Tab-separated text-quoted CSV).
