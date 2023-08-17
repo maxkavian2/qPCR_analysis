@@ -10,7 +10,7 @@ Two different analysis are included that can be executed independently. In both 
 
 The two aformentioned analysis can be defined as follows: 
 
-* **Through standard curve of dilution factors.** This method relies on the estimated dilution factor of the target mRNA through a standard curve of known *dilution factors*. Technical replicas of each biological sample are first assessed, kept or discarded according to their standard deviation[^1], before they are reduced to a central estimation such as their averages. These averages are regarded as representative biological measurements gathered under one category (e.g. one type of control). These averages are later normalised over the partnered average from the reference gene dataset. Two normalizations are provided: dilution factors ratios and differences of C_t (i.e. \Delta C_t)
+* **Through standard curve of dilution factors.** This method relies on the estimated dilution factor of the target mRNA through a standard curve of known *dilution factors*. Technical replicas of each biological sample are first assessed, kept or discarded according to their standard deviation[^1], before they are reduced to a central estimation such as their averages. These averages are regarded as representative biological measurements gathered under one category (e.g. one type of control). These averages are later normalised over the partnered average from the reference gene dataset. Two normalizations are provided: dilution factors ratios and differences of C_t (i.e. /Delta C_t)
 
 over which both Kolmogorov-Smirnov and t-Student test are performed
 *
